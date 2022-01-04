@@ -1,6 +1,7 @@
 {
     "notifications": [
         {
+            "level": "positive",
             "title": "1. New message from John Doe",
             "link": "https://github.com",
             "cover": "https://via.placeholder.com/150",
