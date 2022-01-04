@@ -1,0 +1,80 @@
+{
+    "notifications": [
+        {
+            "title": "1. New message from John Doe",
+            "link": "https://github.com",
+            "cover": "https://via.placeholder.com/150",
+            "started_at": "2022-01-01T00:00:00.000Z",
+            "ended_at": "2022-01-10T00:00:00.000Z",
+            "version_constraint": ">= 0.0.1"
+        },
+        {
+            "title": "2. New message from John Doe",
+            "link": "https://github.com",
+            "cover": "https://via.placeholder.com/150",
+            "started_at": "2022-01-01T00:00:00.000Z",
+            "ended_at": "2022-01-06T00:00:00.000Z",
+            "version_constraint": ">= 0.0.1"
+        },
+        {
+            "title": "3. New message from John Doe",
+            "link": "https://github.com",
+            "cover": "https://via.placeholder.com/150",
+            "started_at": "2022-01-01T00:00:00.000Z",
+            "ended_at": "2022-01-03T00:00:00.000Z",
+            "version_constraint": ">= 0.0.1"
+        }
+    ],
+    "documentations": [
+        {
+            "title": "1. Documentation for the project",
+            "cover": "https://via.placeholder.com/150",
+            "link": "https://github.com"
+        },
+        {
+            "title": "2. Documentation for the project",
+            "cover": "https://via.placeholder.com/150",
+            "link": "https://twitter.com"
+        },
+        {
+            "title": "3. Documentation for the project",
+            "cover": "https://via.placeholder.com/150",
+            "link": "https://youtube.com"
+        }
+    ],
+    "release_notes": [
+        {
+            "title": "1. Release notes for the project",
+            "cover": "https://via.placeholder.com/150",
+            "link": "https://github.com"
+        },
+        {
+            "title": "2. Release notes for the project",
+            "cover": "https://via.placeholder.com/150",
+            "link": "https://twitter.com"
+        },
+        {
+            "title": "3. Release notes for the project",
+            "cover": "https://via.placeholder.com/150",
+            "link": "https://youtube.com"
+        }
+    ],
+    "blog_posts": [
+        {
+            "title": "1. Blog post for the project",
+            "cover": "https://via.placeholder.com/150",
+            "link": "https://github.com"
+        },
+        {
+            "title": "2. Blog post for the project",
+            "cover": "https://via.placeholder.com/150",
+            "link": "https://twitter.com"
+        },
+        {
+            "title": "3. Blog post for the project",
+            "cover": "https://via.placeholder.com/150",
+            "link": "https://youtube.com"
+        }
+    ]
+}
+
