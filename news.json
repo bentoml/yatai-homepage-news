@@ -40,52 +40,40 @@
     ],
     "documentations": [
         {
-            "title": "1. Documentation for the project",
-            "link": "https://github.com"
+            "title": "Getting Started",
+            "https://docs.bentoml.org/en/latest/quickstart.html"
         },
         {
-            "title": "2. Documentation for the project",
-            "cover": "https://via.placeholder.com/150",
-            "link": "https://twitter.com"
+            "title": "BentoML Documentation",
+            "link": "https://docs.bentoml.org/en/latest/"
         },
         {
-            "title": "3. Documentation for the project",
-            "cover": "https://via.placeholder.com/150",
-            "link": "https://youtube.com"
+            "title": "Administrator's Guide",
+            "link": "https://github.com/bentoml/yatai/blob/main/docs/admin-guide.md"
+        },
+        {
+            "title": "BentoML Sample Projects Gallery",
+            "link": "https://github.com/bentoml/gallery"
         }
     ],
     "release_notes": [
         {
-            "title": "1. Release notes for the project",
-            "cover": "https://via.placeholder.com/150",
-            "link": "https://github.com"
+            "title": "BentoML 1.0 Community Demo",
+            "link": "https://youtu.be/r6t00Rq1MDY"
         },
         {
-            "title": "2. Release notes for the project",
-            "cover": "https://via.placeholder.com/150",
-            "link": "https://twitter.com"
+            "title": "Yatai Preview Release",
+            "link": "https://github.com/bentoml/Yatai"
         },
-        {
-            "title": "3. Release notes for the project",
-            "cover": "https://via.placeholder.com/150",
-            "link": "https://youtube.com"
-        }
     ],
     "blog_posts": [
         {
-            "title": "1. Blog post for the project",
-            "cover": "https://via.placeholder.com/150",
-            "link": "https://github.com"
+            "title": "New BentoML Organization Page!",
+            "link": "https://github.com/bentoml"
         },
         {
-            "title": "2. Blog post for the project",
-            "cover": "https://via.placeholder.com/150",
-            "link": "https://twitter.com"
-        },
-        {
-            "title": "3. Blog post for the project",
-            "cover": "https://via.placeholder.com/150",
-            "link": "https://youtube.com"
+            "title": "Join our community Slack",
+            "link": "https://join.slack.com/t/bentoml/shared_invite/enQtNjcyMTY3MjE4NTgzLTU3ZDc1MWM5MzQxMWQxMzJiNTc1MTJmMzYzMTYwMjQ0OGEwNDFmZDkzYWQxNzgxYWNhNjAxZjk4MzI4OGY1Yjg"
         }
     ]
 }
