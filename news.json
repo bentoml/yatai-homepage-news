@@ -41,7 +41,7 @@
     "documentations": [
         {
             "title": "Getting Started",
-            "https://docs.bentoml.org/en/latest/quickstart.html"
+            "link": "https://docs.bentoml.org/en/latest/quickstart.html"
         },
         {
             "title": "BentoML Documentation",
@@ -64,7 +64,7 @@
         {
             "title": "Yatai Preview Release",
             "link": "https://github.com/bentoml/Yatai"
-        },
+        }
     ],
     "blog_posts": [
         {
