@@ -2,7 +2,7 @@
     "notifications": [
         {
             "level": "positive",
-            "title": "1. New message from John Doe",
+            "title": "Sample Message 1",
             "link": "https://github.com",
             "cover": "https://via.placeholder.com/150",
             "started_at": "2022-01-01T00:00:00.000Z",
@@ -10,7 +10,7 @@
             "version_constraint": ">= 0.0.1"
         },
         {
-            "title": "2. New message from John Doe",
+            "title": "Sample Message 2",
             "link": "https://github.com",
             "cover": "https://via.placeholder.com/150",
             "started_at": "2022-01-01T00:00:00.000Z",
@@ -18,25 +18,13 @@
             "version_constraint": ">= 0.0.1"
         },
         {
-            "title": "3. New message from John Doe",
+            "title": "Sample Message 3",
             "link": "https://github.com",
             "cover": "https://via.placeholder.com/150",
             "started_at": "2022-01-01T00:00:00.000Z",
             "ended_at": "2022-01-03T00:00:00.000Z",
             "version_constraint": ">= 0.0.1"
         },
-        {
-            "title": "aaaasadfsdfdwewasdf",
-            "link": "https://google.com"
-        },
-        {
-            "title": "bbbbbwerfawsfsdfsadfasdfwefasdsadf",
-            "link": "https://google.com"
-        },
-        {
-            "title": "cccccccccwefasfewewewfasdfsdfssaf",
-            "link": "https://google.com"
-        }
     ],
     "documentations": [
         {
