@@ -61,7 +61,11 @@
         },
         {
             "title": "Join our community Slack",
-            "link": "https://join.slack.com/t/bentoml/shared_invite/enQtNjcyMTY3MjE4NTgzLTU3ZDc1MWM5MzQxMWQxMzJiNTc1MTJmMzYzMTYwMjQ0OGEwNDFmZDkzYWQxNzgxYWNhNjAxZjk4MzI4OGY1Yjg"
+            "link": "https://l.linklyhq.com/l/ktO8"
+        },
+        {
+            "title": "BentoML: Your ML Model Serving Framework",
+            "link": "https://link.bentoml.com/your-ml-model-serving-framework"
         }
     ]
 }
