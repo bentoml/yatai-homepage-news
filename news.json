@@ -46,15 +46,13 @@
     ],
     "release_notes": [
         {
-            "title": "BentoML 1.0 Community Demo",
-            "link": "https://youtu.be/r6t00Rq1MDY"
+            "title": "BentoML 1.0 Launch Event!",
+            "link": "https://www.youtube.com/watch?v=XjZdKYlVip4"
         },
         {
             "title": "Yatai Preview Release",
             "link": "https://github.com/bentoml/Yatai"
-        }
-    ],
-    "blog_posts": [
+        },
         {
             "title": "New BentoML Organization Page!",
             "link": "https://github.com/bentoml"
@@ -62,6 +60,20 @@
         {
             "title": "Join our community Slack",
             "link": "https://l.linklyhq.com/l/ktO8"
+        }
+    ],
+    "blog_posts": [
+        {
+            "title": "Introducing the Official BentoML 1.0 Release",
+            "link": "https://modelserving.com/blog/introducing-bentoml-10"
+        },
+        {
+            "title": "Introducing Bentoctl: Model Deployment Anywhere",
+            "link": "https://l.bentoml.com/introducing-bentoctl"
+        },
+        {
+            "title": "Breaking up with Flask and FastAPI",
+            "link": "https://l.bentoml.com/breaking-up-with-flask-and-fastapi"
         },
         {
             "title": "BentoML: Your ML Model Serving Framework",
