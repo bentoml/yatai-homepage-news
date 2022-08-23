@@ -29,7 +29,7 @@
     "documentations": [
         {
             "title": "Getting Started",
-            "link": "https://docs.bentoml.org/en/latest/quickstart.html"
+            "link": "https://docs.bentoml.org/en/latest/tutorial.html"
         },
         {
             "title": "BentoML Documentation",
