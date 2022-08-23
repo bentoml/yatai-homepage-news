@@ -29,7 +29,7 @@
     "documentations": [
         {
             "title": "Getting Started",
-            "link": "https://docs.bentoml.org/en/latest/quickstart.html"
+            "link": "https://docs.bentoml.org/en/latest/tutorial.html"
         },
         {
             "title": "BentoML Documentation",
@@ -40,8 +40,8 @@
             "link": "https://github.com/bentoml/yatai/blob/main/docs/admin-guide.md"
         },
         {
-            "title": "BentoML Sample Projects Gallery",
-            "link": "https://github.com/bentoml/gallery"
+            "title": "Example Projects",
+            "link": "https://github.com/bentoml/BentoML/tree/main/examples"
         }
     ],
     "release_notes": [
