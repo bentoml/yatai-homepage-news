@@ -28,6 +28,10 @@
     ],
     "documentations": [
         {
+            "title": "BentoML Cloud is the best way to deploy bentos",
+            "link": "https://www.bentoml.com/bentoml-cloud/"
+        },
+        {
             "title": "Getting Started",
             "link": "https://docs.bentoml.org/en/latest/tutorial.html"
         },
